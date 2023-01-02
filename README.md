@@ -1,1 +1,33 @@
 # 2023-Resolution
+
+- [ ] Consists Write Diary & Blog
+- [ ] Release Personal Application
+  - [ ] Maturnulis
+    - [ ] Web ~ Angular & NestJS
+    - [ ] App ~ Kotlin & .NET
+    - [ ] DB ~ PostgreSQL
+  - [ ] Resep Makanan
+    - [ ] App ~ Kotlin & SpringBoot
+    - [ ] Web ~ Angular & Laravel
+  - [ ] Chatting App
+    - [ ] App
+    - [ ] Web
+    - [ ] The stack of these application I will choose, comfortable stack based on two application that I developed above.
+- [ ] Healthy Sleep, max at 10.00 PM and wake up at 02.00 AM - 03.00 AM. If there is nothing urgent.
+- [ ] Buy & Read Book
+  - [ ] The Pragmatic Programmer
+  - [ ] Introduction to Algorithms
+  - [ ] The Art of Computer Programming
+  - [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+  - [ ] Suwung: Ajaran Rahasia Leluhur Jawa
+  - [ ] An Introduction to Philosophy, George Stuart Fullerton
+- [ ] Have Own VPS Server
+- [ ] Buy Mechanical Keyboard
+- [ ] Have savings, for the nominal I did not write. But I've targeted
+- [ ] Have new skills in programming
+  - [ ] Angular
+  - [ ] Kotlin (Android Studio)
+  - [ ] Spring Boot
+  - [ ] NestJS
+  - [ ] Docker
+  - [ ] .NET
