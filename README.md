@@ -24,6 +24,7 @@
 - [ ] Have Own VPS Server
 - [ ] Buy Mechanical Keyboard
 - [ ] Have savings, for the nominal I did not write. But I've targeted
+- [ ] No PMO
 - [ ] Have new skills in programming
   - [ ] Angular
   - [ ] Kotlin (Android Studio)
