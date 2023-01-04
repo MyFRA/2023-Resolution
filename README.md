@@ -32,4 +32,6 @@
   - [ ] NestJS
   - [ ] Docker
   - [ ] .NET
-- [ ] Hiatus Facebook 1 Year
+- [ ] Hiatus Facebook, Instagram 1 Year
+- [ ] Smoking Is Only Allowed Between Maghrib and Isya, And Even Then You Are Only Allowed One Cigarette
+- [ ] Only Allowed Watch Youtube With Islamic, Programming and Rumah Editor Video 
