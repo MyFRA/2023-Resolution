@@ -1,6 +1,7 @@
 # 2023-Resolution
 
 - [ ] Consists Write Diary & Blog
+- [ ] Consistently Take a Shower In The Morning at 08.00 AM & Take a Shower In The Evening Before Maghrib
 - [ ] Release Personal Application
   - [ ] Maturnulis
     - [ ] Web ~ Angular & NestJS
